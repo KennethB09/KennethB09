@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KennethB09
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ...Front end web developer
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kenneth Bacaltos
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me ...
 
 <!---
